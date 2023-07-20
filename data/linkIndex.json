@@ -1,42 +1,30 @@
 {
   "index": {
     "links": {
-      "/": [
+      "": [
         {
-          "source": "/",
+          "source": "",
           "target": "/docs/historia/",
           "text": "Linea de tiempo de GNU/Linux"
         },
         {
-          "source": "/",
+          "source": "",
           "target": "/docs/comandos_basicos/",
           "text": "Comandos básicos"
-        },
-        {
-          "source": "/",
-          "target": "/docs/comandos_archivos/",
-          "text": "Comandos para archivos"
         }
       ]
     },
     "backlinks": {
-      "/docs/comandos_archivos/": [
-        {
-          "source": "/",
-          "target": "/docs/comandos_archivos/",
-          "text": "Comandos para archivos"
-        }
-      ],
       "/docs/comandos_basicos/": [
         {
-          "source": "/",
+          "source": "",
           "target": "/docs/comandos_basicos/",
           "text": "Comandos básicos"
         }
       ],
       "/docs/historia/": [
         {
-          "source": "/",
+          "source": "",
           "target": "/docs/historia/",
           "text": "Linea de tiempo de GNU/Linux"
         }
@@ -45,19 +33,14 @@
   },
   "links": [
     {
-      "source": "/",
+      "source": "",
       "target": "/docs/historia/",
       "text": "Linea de tiempo de GNU/Linux"
     },
     {
-      "source": "/",
+      "source": "",
       "target": "/docs/comandos_basicos/",
       "text": "Comandos básicos"
-    },
-    {
-      "source": "/",
-      "target": "/docs/comandos_archivos/",
-      "text": "Comandos para archivos"
     }
   ]
 }

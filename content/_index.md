@@ -1,33 +1,41 @@
----
-title: 💜 Welcome to Amethyst!
-enableToc: false
----
+# Planificación del curso GNU/Linux
+## Sesiones
+### Sesión 1
+Día: 7 de Agosto del 2013  
+Lugar: AT-106  
+Hora: 14:00 - 16:00
+### Sesión 2
+Día: 21 de Agosto del 2013  
+Lugar: AT-106  
+Hora: 14:00 - 16:00
+## Instructores
+* Eduardo Romero Arzate
+* Luis Fernando Torres Hernández
 
-## What is Amethyst?
-Amethyst is a free [Obsidian Publish](https://obsidian.md/publish) alternative that is derived from two existing projects, [Quartz](https://quartz.jzhao.xyz/) and [Hugo Book](https://github.com/alex-shpak/hugo-book).
+## Objetivo general
+El objetivo de este taller es dar bases solidas sobre el uso de la terminal en sistemas operativos GNU/Linux, al terminar el taller los asistentes deben de ser capaces de realizar tareas básicas de manejo de archivos así como usar algunas herramientas del sistema.
 
-The purpose of Amethyst is to provide a space to publish more structured notes created in Obsidian that may not fit in the [digital garden](https://joelhooks.com/digital-garden/) archetype that is well-supported by existing projects.
-
-Amethyst was primarily created as a theme for my [course notes](https://notes.bencuan.me).
-
-## Get Started
-> 📚 Step 1: [Setup your own Amethyst instance](setup/setup.md)
-
-> ✏️ Step 2: [Editing Notes in Amethyst](setup/editing.md)
-
-> 🔗 Step 3: [How to setup your Obsidian Vault to work with Amethyst](setup/obsidian.md)
-
-> 👀 Step 4: [Preview Changes](setup/preview%20changes.md)
-
-> 🌍 Step 5: [Hosting Amethyst online!](setup/hosting.md)
-
-> 🎨 Step 6:  [Customizing Amethyst](setup/config.md)
-
-Returning user? Here's how to [[setup/updating|update]] your existing Amethyst instance.
-
-Here's a list of all [setup-related notes](/tags/setup), which are also accessible via the sidebar menu under the "Getting Started" section.
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](setup/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/64bitpandas/amethyst/issues)
-- 👀 [Contact me](https://bencuan.me/contact)
+## Contenidos
+* [Linea de tiempo de GNU/Linux](docs/historia/) (30 minutos, Eduardo Romero Arzate)
+	* Historia de Unix
+	* Historia de GNU
+	* Historia de Linux
+	* Ejemplos de Software Libre
+* [Comandos básicos](docs/comandos_basicos/) (20 minutos, Luis Fernando Torres Hernández)
+	* man
+	* pwd
+	* ls
+	* cd
+* [Comandos para archivos](docs/comandos_archivos/) (20 minutos, Luis Fernando Torres Hernández)
+	* cp
+	* mv
+	* rm
+	* mkdir
+	* rmdir
+* Comandos útiles variados (20 minutos, Luis Fernando Torres Hernández)
+	* bc
+	* cal
+	* date
+	* find
+	* grep 
+* Vim (50 minutos, Eduardo Romero Arzate)
