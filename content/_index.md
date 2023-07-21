@@ -1,13 +1,16 @@
 # Planificación del curso GNU/Linux
 ## Sesiones
+{{<columns>}}
 ### Sesión 1
 Día: 7 de Agosto del 2013  
 Lugar: AT-106  
 Hora: 14:00 - 16:00
+<--->
 ### Sesión 2
 Día: 21 de Agosto del 2013  
 Lugar: AT-106  
 Hora: 14:00 - 16:00
+{{</columns>}}
 ## Instructores
 * Eduardo Romero Arzate
 * Luis Fernando Torres Hernández
@@ -21,21 +24,21 @@ El objetivo de este taller es dar bases solidas sobre el uso de la terminal en s
 	* Historia de GNU
 	* Historia de Linux
 	* Ejemplos de Software Libre
-* [Comandos básicos](docs/comandos_basicos/) (20 minutos, Luis Fernando Torres Hernández)
+* [Comandos básicos](docs/comandos_basicos/) (30 minutos, Luis Fernando Torres Hernández)
 	* man
 	* pwd
 	* ls
 	* cd
-* [Comandos para archivos](docs/comandos_archivos/) (20 minutos, Luis Fernando Torres Hernández)
+* [Comandos para archivos](docs/comandos_archivos/) (30 minutos, Luis Fernando Torres Hernández)
 	* cp
 	* mv
 	* rm
 	* mkdir
 	* rmdir
-* Comandos útiles variados (20 minutos, Luis Fernando Torres Hernández)
+* [Comandos útiles variados](docs/comandos_utiles/) (30 minutos, Luis Fernando Torres Hernández)
 	* bc
 	* cal
 	* date
 	* find
 	* grep 
-* Vim (50 minutos, Eduardo Romero Arzate)
+* [Vim](docs/vim/) (50 minutos, Eduardo Romero Arzate)

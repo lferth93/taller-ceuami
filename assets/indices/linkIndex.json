@@ -16,6 +16,16 @@
           "source": "/",
           "target": "/docs/comandos_archivos/",
           "text": "Comandos para archivos"
+        },
+        {
+          "source": "/",
+          "target": "/docs/comandos_utiles/",
+          "text": "Comandos útiles variados"
+        },
+        {
+          "source": "/",
+          "target": "/docs/vim/",
+          "text": "Vim"
         }
       ]
     },
@@ -34,11 +44,25 @@
           "text": "Comandos básicos"
         }
       ],
+      "/docs/comandos_utiles/": [
+        {
+          "source": "/",
+          "target": "/docs/comandos_utiles/",
+          "text": "Comandos útiles variados"
+        }
+      ],
       "/docs/historia/": [
         {
           "source": "/",
           "target": "/docs/historia/",
           "text": "Linea de tiempo de GNU/Linux"
+        }
+      ],
+      "/docs/vim/": [
+        {
+          "source": "/",
+          "target": "/docs/vim/",
+          "text": "Vim"
         }
       ]
     }
@@ -58,6 +82,16 @@
       "source": "/",
       "target": "/docs/comandos_archivos/",
       "text": "Comandos para archivos"
+    },
+    {
+      "source": "/",
+      "target": "/docs/comandos_utiles/",
+      "text": "Comandos útiles variados"
+    },
+    {
+      "source": "/",
+      "target": "/docs/vim/",
+      "text": "Vim"
     }
   ]
 }
