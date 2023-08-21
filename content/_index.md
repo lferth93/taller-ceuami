@@ -7,8 +7,8 @@ Lugar: AT-106
 Hora: 14:00 - 16:00
 <--->
 ### Sesión 2
-Día: 21 de Agosto del 2013  
-Lugar: AT-106  
+Día: 24 de Agosto del 2013  
+Lugar: AT-105  
 Hora: 14:00 - 16:00
 {{</columns>}}
 ## Instructores
