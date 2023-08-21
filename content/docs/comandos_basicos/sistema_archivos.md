@@ -90,7 +90,7 @@ Las rutas relativas dependen del directorio actual en el que se encuentra el usu
 
 *¿Cuál es la ruta relativa del archivo `glop`, si estoy en el directorio `/`?*
 {{<details "Respuesta">}}
-`willy/notas`
+`tmp/glop`
 {{</details>}}
 
 *¿Cuál es la ruta relativa del archivo `archivo1`, si estoy en el directorio `colores`?* 
