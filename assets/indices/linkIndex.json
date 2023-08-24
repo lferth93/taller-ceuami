@@ -27,6 +27,28 @@
           "target": "/docs/vim/",
           "text": "Vim"
         }
+      ],
+      "/docs/comandos_archivos/": [
+        {
+          "source": "/docs/comandos_archivos/",
+          "target": "/docs/comandos_archivos/_index",
+          "text": "Crearlos"
+        },
+        {
+          "source": "/docs/comandos_archivos/",
+          "target": "/docs/comandos_archivos/_index",
+          "text": "Borrarlos"
+        },
+        {
+          "source": "/docs/comandos_archivos/",
+          "target": "/docs/comandos_archivos/_index",
+          "text": "Copiarlos"
+        },
+        {
+          "source": "/docs/comandos_archivos/",
+          "target": "/docs/comandos_archivos/_index",
+          "text": "Organizarlos"
+        }
       ]
     },
     "backlinks": {
@@ -35,6 +57,28 @@
           "source": "/",
           "target": "/docs/comandos_archivos/",
           "text": "Comandos para archivos"
+        }
+      ],
+      "/docs/comandos_archivos/_index": [
+        {
+          "source": "/docs/comandos_archivos/",
+          "target": "/docs/comandos_archivos/_index",
+          "text": "Crearlos"
+        },
+        {
+          "source": "/docs/comandos_archivos/",
+          "target": "/docs/comandos_archivos/_index",
+          "text": "Borrarlos"
+        },
+        {
+          "source": "/docs/comandos_archivos/",
+          "target": "/docs/comandos_archivos/_index",
+          "text": "Copiarlos"
+        },
+        {
+          "source": "/docs/comandos_archivos/",
+          "target": "/docs/comandos_archivos/_index",
+          "text": "Organizarlos"
         }
       ],
       "/docs/comandos_basicos/": [
@@ -92,6 +136,26 @@
       "source": "/",
       "target": "/docs/vim/",
       "text": "Vim"
+    },
+    {
+      "source": "/docs/comandos_archivos/",
+      "target": "/docs/comandos_archivos/_index",
+      "text": "Crearlos"
+    },
+    {
+      "source": "/docs/comandos_archivos/",
+      "target": "/docs/comandos_archivos/_index",
+      "text": "Borrarlos"
+    },
+    {
+      "source": "/docs/comandos_archivos/",
+      "target": "/docs/comandos_archivos/_index",
+      "text": "Copiarlos"
+    },
+    {
+      "source": "/docs/comandos_archivos/",
+      "target": "/docs/comandos_archivos/_index",
+      "text": "Organizarlos"
     }
   ]
 }

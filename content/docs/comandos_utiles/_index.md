@@ -1,7 +1,6 @@
 ---
 title: "Comandos útiles"
 weight: 4
-draft: true
 ---
 # Comandos útiles
 Como ya se menciono previamente la terminal es la principal forma de interacción con los sistema tipo Unix, por esta razón se han desarrollado una gran cantidad de herramientas para diferentes propósitos que funcionan completamente dentro de una terminal, estas herramientas incluyen reproductores de música, navegadores web, etc.
@@ -40,13 +39,14 @@ $ bc -l
 Buscar archivos es una tarea muy común, el comando que realiza esto es `find`,
 este comando no solo nos permite filtrar nuestra búsqueda por el nombre del archivo.
 
-Cambien nos permite definir una acción a realizar para cada uno de los archivos que coinciden con nuestros criterios de búsqueda.
+También nos permite definir una acción a realizar para cada uno de los archivos que coinciden con nuestros criterios de búsqueda.
 
 ```bash
-$ find <opción>... <directorio> <expresion>
+$ find <opción>... <directorio> <expresión>
 ```
 
-En este comando `<expresion>` define los criterios de búsqueda y las acciones que se realizaran sobre los archivos filtrados.
+En este comando `<expresión>` define los criterios de búsqueda y las acciones que se realizaran sobre los archivos filtrados.
+
 
 ## Buscador de texto
 Debido a que en Unix manejamos una gran cantidad de archivos de texto es necesario tener una herramienta que nos permita buscar texto de forma eficiente, para esto existe `grep`, con este comando podemos buscar tanto texto explicito como patrones de texto.
@@ -55,5 +55,5 @@ Esta herramienta solo nos mostrara las lineas del archivo que coinciden con nues
 
 ```bash
 $ grep <opción>... -F -e <texto>... <archivo>...
-$ grep <opción>... -e <patron>... <archivo>...
+$ grep <opción>... -e <patrón>... <archivo>...
 ```

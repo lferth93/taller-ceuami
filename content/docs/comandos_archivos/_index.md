@@ -1,12 +1,11 @@
 ---
 title: "Comandos para archivos"
 weight: 3
-draft: true
 ---
 # Comandos para archivos
-En Unix el concepto de archivo es muy importante, pero ¿Como trabajamos con archivos?
+En Unix el concepto de archivo es muy importante, pero ¿Cómo trabajamos con archivos?
 
-Las acciones comunes que se pueden realizar con archivos son.
+Las acciones comunes que se pueden realizar con archivos son:
 * [[docs/comandos_archivos/_index#Crear archivos|Crearlos]]
 * [[docs/comandos_archivos/_index#Borrar archivos|Borrarlos]]
 * [[docs/comandos_archivos/_index#Copiar archivos|Copiarlos]]
@@ -16,10 +15,10 @@ Las acciones comunes que se pueden realizar con archivos son.
 Para cada una de estas tareas tenemos comandos que nos ayudan.
 
 ## Crear archivos 
-Para crear archivos tenemos el comando `touch`. este comando crea un archivo vació con el nombre indicado.
+Para crear archivos tenemos el comando `touch`, este comando crea un archivo vació con el nombre indicado.
 
 ``` bash
-$ touch <opción>... <archivo>
+$ touch <opción>... <archivo>...
 ```
 
 >[!note] Nota
@@ -28,7 +27,7 @@ $ touch <opción>... <archivo>
 
 >[!example] Ejercicio
 >
->Crea los archivos `gato_1` ... `gato_10` usando el comando `touch`.
+>Crea los archivos `gato_1` ... `gato_10` usando el comando `touch`
 ## Borrar archivos
 Cuando queremos borrar archivos usamos el comando `rm` (Remove), este comando acepta una lista de archivos que serán borrados.
 ```bash
@@ -57,7 +56,7 @@ $ cp <opción>... <origen>... <directorio>
 >1. Crea los archivos `perro_1` ... `perro_10`
 >1. Copia estos archivos a los archivos `oso_1` ... `oso_10`.
 ## Organizar archivos
-Los archivos se organizan en directorio. Los directorios se pueden crear y eliminar.
+Los archivos se organizan en directorios. Los directorios se pueden crear y eliminar.
 ### Crear directorios
 Para crear directorios se usa el comando `mkdir` (Make Directory). 
 ```bash
